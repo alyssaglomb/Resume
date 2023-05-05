@@ -42,7 +42,7 @@
 - Incorporated original quantitative and qualitative data analysis into capstone research project about voting behavior in Sub-Saharan Africa
 
 #### James Madison Univserity, Harrisonburg, VA
-*Bachelor of Arts, MAy 2014*
+*Bachelor of Arts, May 2014*
 - Majors: Political Science and International Affairs, Concentration: Comparative Politics – Africa
 - Member of policy debate team, 2011-2014 
 - Presented capstone research paper in International Affairs at two conferences: Africana Studies Conference at JMU, October 2013 and Gender Studies conference at Virginia Tech, February 2014
