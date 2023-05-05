@@ -27,7 +27,7 @@
 - Coordinated events to spread health messages to communities including hosting speakers for World AIDS Day and mentoring clubs for adolescent girls
 
 #### Office of Voter Registration and Elections, Alexandria, VA	
-*Assistant Elections Manager, Aug 2018-Jul 2019*
+*Assistant Elections Manager, Aug 2018-Jul 2019*  
 *Assistant Registrar III, Dec 2015-Aug 2018*
 - Database management for roster of 800+ Election Officers; used survey software to check officers’ availability and schedule training sessions
 - Facilitated training sessions including classes on equipment set-up and troubleshooting
