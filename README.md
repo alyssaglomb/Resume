@@ -1,5 +1,5 @@
 # Resume
 
-# Alyssa Glomb
+**Alyssa Glomb**
 
-# <p style="text-align: center;">Alyssa Glomb</p>
+<p style="text-align: center;">Alyssa Glomb</p>
