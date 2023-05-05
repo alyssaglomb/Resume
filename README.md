@@ -2,4 +2,4 @@
 
 **Alyssa Glomb**
 
-<p style="text-align: center;">Alyssa Glomb</p>
+<div align="center">Alyssa Glomb</div>
