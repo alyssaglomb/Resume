@@ -5,8 +5,8 @@
 
 ### Data Analysis Skils
 - Statistical quantitative research and analysis including wrangling, analyzing, and visualizing data
-- Use of R, R Studio, Stata, SPSS, and excel software
-- Tableau Data Visualization workshop at American University, Jan 2023
+- Use of R including R Studio and R Markdown to create tables and graphs and incorporate research into original data presentations
+- Additional experience in Tableau, Stata, SPSS, and excel
 
 ### Professional Experience
 #### Lone Star Project, Washington D.C.
